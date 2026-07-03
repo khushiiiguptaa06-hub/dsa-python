@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0283-move-zeroes) |
 | [1929-concatenation-of-array](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -14,4 +15,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
