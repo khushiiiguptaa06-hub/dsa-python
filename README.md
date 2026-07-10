@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
