@@ -7,7 +7,6 @@ class Solution:
         s1_count = {}
         window_count = {}
 
-        # Frequency of s1
         for ch in s1:
             s1_count[ch] = s1_count.get(ch, 0) + 1
 
@@ -15,7 +14,6 @@ class Solution:
 
         for right in range(len(s2)):
 
-            # Add current character
             window_count[s2[right]] = window_count.get(s2[right], 0) + 1
 
             # Keep window size equal to len(s1)
@@ -27,7 +25,6 @@ class Solution:
 
                 left += 1
 
-            # Compare frequency maps
             if window_count == s1_count:
                 return True
 
