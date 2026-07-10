@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
@@ -92,5 +95,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
