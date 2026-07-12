@@ -47,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0704-binary-search) |
