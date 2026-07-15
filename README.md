@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0724-find-pivot-index) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1480-running-sum-of-1d-array) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0374-guess-number-higher-or-lower) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
