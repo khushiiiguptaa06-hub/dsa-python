@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0303-range-sum-query-immutable) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1004-max-consecutive-ones-iii) |
