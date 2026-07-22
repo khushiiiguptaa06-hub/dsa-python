@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0268-missing-number) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0383-ransom-note) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
