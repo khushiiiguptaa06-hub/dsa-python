@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1732-find-the-highest-altitude) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1207-unique-number-of-occurrences](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
