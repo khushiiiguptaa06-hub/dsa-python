@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0523-continuous-subarray-sum) |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/khushiiiguptaa06-hub/dsa-python/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
